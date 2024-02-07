@@ -10,3 +10,5 @@ The frontend application is mainly responsible to exposing a user-interface for 
 The documentation of project are described in [Technical Document](docs/technical-document/technical-document.md).
 
 The backend exposes an HTTP API described in [API Documentation](docs/api/api-documentation.md).
+
+This project was developed by: Carolina Pereira, João Bonacho & André Gonçalves
