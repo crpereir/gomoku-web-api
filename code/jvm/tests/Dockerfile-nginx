@@ -1,0 +1,6 @@
+FROM nginx
+COPY ./jvm/tests/nginx/nginx.conf /etc/nginx
+
+WORKDIR /js
+COPY ./js/dist/main.js /js
+COPY ./js/public/index.html /js
