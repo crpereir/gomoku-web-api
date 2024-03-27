@@ -1,4 +1,4 @@
-# DAW project
+# GOMOKU WEB API
 
 The developed project is based on a centralized backend service and a browser-based application frontend application,
 that allows multiple players to play the [Gomoku](https://en.wikipedia.org/wiki/Gomoku) game.
